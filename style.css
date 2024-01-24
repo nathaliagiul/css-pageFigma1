@@ -1,12 +1,12 @@
 body {
-  font-family: "Open Sans", "Light 300";
+  font-family: "Open Sans", sans-serif;
   text-align: center;
   margin: 0;
 }
 
 #main {
     width: 592px;
-    margin: 64px auto 64px; 
+    margin: 64px auto; 
 }
 
 a {
@@ -34,12 +34,10 @@ p span {
 
 h1 {
   color: #3F3D56;
-  font-family: "Dosis", "ExtraLight 200";
+  font-family: "Dosis", sans-serif;
   text-align: center;
-  font-size: 32px;;
+  font-size: 32px;
   margin-bottom: 32px;
-  font-weight: normal;
-
 }
 
 h1 span {
@@ -60,7 +58,7 @@ h1 span {
     width: 391px;
     height: 0;
 
-    margin: 16px auto 16px;
+    margin: 16px auto;
 
     border: 1px solid #ECEFF2;
 }
@@ -69,6 +67,6 @@ h1 span {
     position: fixed;
     bottom: 0;
     right: 0;
-    width:100%;
-    height:100px;
+    width: 100%;
+    height: 100px;
 }
