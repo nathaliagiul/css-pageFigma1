@@ -1,4 +1,4 @@
-# Desafio intermediário - Recriando layout
+# 💻 Desafio intermediário - Recriando layout
 
 Nesse desafio, você deverá recriar uma aplicação, a partir de um layout pronto no Figma, para fortalecer alguns conceitos aprendidos nessa aula, entre eles:
 
