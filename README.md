@@ -10,6 +10,7 @@ Nesse desafio, você deverá recriar uma aplicação, a partir de um layou
 - Espaçamentos.
 
 ## Layout da aplicação
-![image](https://github.com/nathaliagiul/css-pageFigma1/assets/20890374/c33a5dde-c216-4209-a05d-e192f173e498)
+![image](https://github.com/nathaliagiul/css-pageFigma1/assets/20890374/8eedef13-5172-4f8b-a86c-e6b5fd5045d3)
+
 
 
