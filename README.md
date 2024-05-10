@@ -10,5 +10,6 @@ Nesse desafio, você deverá recriar uma aplicação, a partir de um layou
 - Espaçamentos.
 
 ## Layout da aplicação
-![desafio](https://gcdnb.pbrd.co/images/sgHPRfJrQGHC.png?o=1)
+![image](https://github.com/nathaliagiul/css-pageFigma1/assets/20890374/c33a5dde-c216-4209-a05d-e192f173e498)
+
 
